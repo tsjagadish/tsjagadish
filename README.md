@@ -1,6 +1,6 @@
 ## Jagadish T Shanmukappa 👋
 
-### Engineering & Technology Leader | Infrastructure | Cyber, Cloud & AI Security Leader | CISM | AI Security Governance | Cloud Risk & Architecture |Cyber Resilience | Regulated Enterprises 
+### Engineering & Technology Leader | Infrastructure | Cyber, Cloud & AI Security | CISM | AI Security Governance | Cloud Risk & Architecture |Cyber Resilience | Regulated Enterprises 
 
 I’m an engineering and technology leader with extensive experience building and scaling global software engineering, platform, infrastructure, and IT operations organizations.  Over my career, I have led engineering teams across multiple countries, owned end-to-end technology delivery, and transformed complex enterprise environments into more scalable, reliable, automated, and business-aligned platforms.
 
